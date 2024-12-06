@@ -12,6 +12,7 @@ I started to be interested in the world of technology since junior high school, 
   <a href="#"><img align="left" alt="JavaScript" title="JavaScript" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
   <a href="https://nodejs.org/"><img align="left" alt="NodeJS" title="NodeJS" width="21px" src="https://cdn-icons-png.flaticon.com/128/5968/5968322.png" />
   <a href="https://codeigniter.com/"><img align="left" alt="codeigniter" title="codeigniter" width="21px" src="https://seeklogo.com/images/C/codeigniter-logo-BDF3D666E7-seeklogo.com.png" />
+  <a href="https://codeigniter.com/"><img align="left" alt="codeigniter" title="codeigniter" width="21px" src="https://seeklogo.com/images/L/laravel-logo-41EC1D4C3F-seeklogo.com.png" />
   <a href="https://www.php.net/"><img align="left" alt="php" title="php" width="25px" src="https://cdn-icons-png.flaticon.com/128/5968/5968332.png" />
   <a href="https://tailwindcss.com/"><img align="left" alt="tailwindcss" title="tailwindcss" width="30px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/tailwind-css-icon.png" />
   <br>
